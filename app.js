@@ -2,7 +2,7 @@
    whatsapp: Amr's number in international format, digits only (e.g. "201001234567").
    When set, the lead form opens WhatsApp with the request pre-filled.
    When empty, the request is copied and the visitor is sent to Instagram DM. */
-const CONFIG = { whatsapp: "", instagram: "https://www.instagram.com/_amr_essam_/" };
+const CONFIG = { whatsapp: "201066784167", instagram: "https://www.instagram.com/_amr_essam_/" };
 
 /* ============ I18N ============ */
 const AR = {
